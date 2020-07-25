@@ -123,10 +123,8 @@
 
 .landing .welcome .icons .icon-link {
   text-decoration: none;
-  /* color: rgb(233, 152, 166); */
   color: #EFACA9;
 }
-
 
 
 /* Experience */ 
@@ -136,11 +134,10 @@
   padding: 50px;
 }
 
-.experience .title {
+.title {
   text-align: center;
   font-size: 3.5rem;
   color: #EFACA9;
-  /* font-size: 120%; */
 }
 
 
@@ -148,6 +145,15 @@
   color: gray;
   font-size: 65%;
 }
+
+/* About */
+
+.about {
+  background-color: rgba(256,256,256,1);
+  padding: 50px;
+}
+
+
 
 
 @media(max-width: 1000px) {
